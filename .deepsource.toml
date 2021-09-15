@@ -1,0 +1,9 @@
+version = 1
+
+[[analyzers]]
+name = "python"
+enabled = true
+
+[[analyzers]]
+name = "github.com/sourya-deepsource/scream"
+enabled = true
