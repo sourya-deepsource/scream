@@ -1,0 +1,5 @@
+name = "Screamer"
+description = "It screams"
+visibility = "private"
+category = "language"
+analysis_command = "python /app/analyze.py"

@@ -1,0 +1,2 @@
+build:
+	cp -r ../../. /app

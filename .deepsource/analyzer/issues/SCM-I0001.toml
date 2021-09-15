@@ -1,0 +1,10 @@
+title = "Words should be capitalized carefully"
+description = """
+Read the title
+
+Example: `Autofix`, not `autofix`.
+"""
+severity = "major"
+category = "style"
+recommended = true
+weight = 80
